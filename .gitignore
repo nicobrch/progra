@@ -1,3 +1,19 @@
+# IDEs
+.idea
+.vscode
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# C
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -11,5 +27,22 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
-.idea
-.vscode
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
