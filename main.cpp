@@ -1,3 +1,7 @@
-//
-// Created by Nico on 03-04-2024.
-//
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main(){
+    return 0;
+}
