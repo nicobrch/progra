@@ -8,4 +8,4 @@ Material de apoyo, ejercicios y PPTs de los cursos en los que he realizado ayuda
 * [Programación Avanzada 2023-02](avanzada-2023/)
 * [Programación 2024-01](programacion-2024/)
 
-![Gatito](img/gatito.png)
+![Gatito](imgs/gatito.png)
