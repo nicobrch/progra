@@ -7,5 +7,6 @@ Material de apoyo, ejercicios y PPTs de los cursos en los que he realizado ayuda
 * [Programación 2023-01](programacion-2023/)
 * [Programación Avanzada 2023-02](avanzada-2023/)
 * [Programación 2024-01](programacion-2024/)
+* [Arquitectura de Software 2024-01](arqui-sw-2024/)
 
 ![Gatito](imgs/gatito.png)
