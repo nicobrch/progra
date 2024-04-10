@@ -17,7 +17,7 @@ int main(){
   int premio = 0;
   if(numero_ganador == numero_jugado){
     cout << "Premio Mayor" << endl;
-  }else if(numero_ganador / 1000 == numero_jugado / 1000 || numero_ganador % 1000 / 100 == numero_jugado % 1000 / 100){
+  }else if(numero_ganador / 100 == numero_jugado / 100 || numero_ganador % 100 == numero_jugado % 100){
     cout << "Premio Par" << endl;
   }else if(numero_ganador % 10 == numero_jugado % 10){
     cout << "Premio Termino" << endl;
